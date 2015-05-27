@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/xianjian03" >
+    </ImageView>
+
+</LinearLayout><!-- From: file:/F:/androiddemo/FragmentActivity+FragmentTabHost+Fragement替代TabActibvity+TabHost+Activity/app/src/main/res/layout/fragment_3.xml -->
